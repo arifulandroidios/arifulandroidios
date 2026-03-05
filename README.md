@@ -1,21 +1,22 @@
 <h1 align="center">Hi 👋, I'm Md Ariful Islam</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Senior+Mobile+Application+Developer;Android+%7C+iOS+%7C+Cross+Platform+Developer;Java+%7C+Kotlin+%7C+Swift+%7C+React+Native+%7C+Flutter;3.5%2B+Years+Building+Mobile+Apps;Passionate+About+Clean+Code+%26+Performance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=750&lines=Mobile+Application+Developer;Android+%7C+iOS+%7C+Cross+Platform+Developer;Java+%7C+Kotlin+%7C+Swift+%7C+React+Native+%7C+Flutter;3.5%2B+Years+of+Mobile+Development;Building+Scalable+Mobile+Applications" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=arifulandroidios&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=arifulandroidios&label=Profile%20Views&color=0e75b6&style=flat"/>
 </p>
 
 ---
 
 # 👨‍💻 Professional Summary
 
-Mobile Application Developer with **3.5+ years of experience** building high-quality **Android, iOS, and cross-platform applications**.  
-Skilled in designing scalable mobile architectures, integrating APIs, optimizing performance, and delivering user-focused applications.
+Mobile Application Developer with **3.5+ years of experience** building high-quality **Android, iOS, and cross-platform applications**.
 
-I enjoy solving complex problems and continuously improving my expertise in **modern mobile technologies**.
+Experienced in designing scalable mobile architectures, integrating APIs, improving application performance, and delivering reliable user-focused applications.
+
+I enjoy solving complex engineering problems and continuously learning modern mobile technologies.
 
 ---
 
@@ -41,7 +42,15 @@ I enjoy solving complex problems and continuously improving my expertise in **mo
 
 ---
 
-# 📊 GitHub Statistics
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=arifulandroidios&theme=tokyonight&row=1&column=6"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -49,6 +58,14 @@ I enjoy solving complex problems and continuously improving my expertise in **mo
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulandroidios&layout=compact&theme=tokyonight"/>
 
+</p>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arifulandroidios&theme=tokyo-night"/>
 </p>
 
 ---
@@ -69,7 +86,7 @@ I enjoy solving complex problems and continuously improving my expertise in **mo
 
 ---
 
-# 📫 Contact Me
+# 📫 Connect With Me
 
 <p align="center">
 
@@ -89,4 +106,4 @@ I enjoy solving complex problems and continuously improving my expertise in **mo
 
 ---
 
-⭐ **“Building scalable mobile apps with clean architecture and great user experience.”**
+⭐ **“Building scalable mobile applications with clean architecture and great user experience.”**

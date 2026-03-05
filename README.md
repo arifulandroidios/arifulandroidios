@@ -42,25 +42,7 @@ I enjoy solving complex engineering problems and continuously learning modern mo
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=arifulandroidios&theme=tokyonight&row=1&column=6"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=arifulandroidios&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arifulandroidios&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
 
 # 📈 GitHub Activity Graph
 

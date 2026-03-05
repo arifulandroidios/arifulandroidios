@@ -60,13 +60,7 @@ I enjoy solving complex engineering problems and continuously learning modern mo
 
 ---
 
-# 🐍 Contribution Snake
 
-<p align="center">
-<img src="https://raw.githubusercontent.com/arifulandroidios/arifulandroidios/output/github-contribution-grid-snake.svg"/>
-</p>
-
----
 
 # 📫 Connect With Me
 
